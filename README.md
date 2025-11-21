@@ -1,4 +1,4 @@
-# ⏰ Analog Clock
+# Analog Clock
 
 A simple, lightweight analog clock application written in C/C++ designed to display the current system time in a classic analog format. This project is ideal for learning graphics rendering, system time handling, and basic event loop programming.
 
