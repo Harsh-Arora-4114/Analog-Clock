@@ -104,18 +104,6 @@ This project is released under the **MIT License**. See the `LICENSE` file for d
 
 ---
 
-## Contributing
-
-Contributions are welcome! Typical contributions:
-
-* Improve rendering or add smoothing/anti-aliasing
-* Add settings UI to change clock appearance at runtime
-* Port to other graphics libraries or platforms
-
-Please open an issue or submit a pull request.
-
----
-
 ## Author
 
 Developed by **Harsh Arora**
